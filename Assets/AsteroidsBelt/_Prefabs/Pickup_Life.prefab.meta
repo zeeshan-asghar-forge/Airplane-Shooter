@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c5cf70c1cce2d5b468899585e940683e
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_Prefabs/Pickup_Life.prefab
+  uploadId: 229582

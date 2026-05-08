@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d4c61eabc5c11d74b9550ebfea7b98a9
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_Prefabs/Enemy_SpikeBall.prefab
+  uploadId: 229582

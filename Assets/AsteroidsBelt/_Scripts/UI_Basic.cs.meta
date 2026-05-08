@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2e6363f5a84269c438d8e4a76b82ed5b
+timeCreated: 1518108027
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_Scripts/UI_Basic.cs
+  uploadId: 229582

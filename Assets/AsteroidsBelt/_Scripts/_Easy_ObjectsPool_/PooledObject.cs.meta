@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 00a7fa10ded1edd498e043e29df37d5d
+timeCreated: 1515358544
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_Scripts/_Easy_ObjectsPool_/PooledObject.cs
+  uploadId: 229582

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a9c959d3d97d13643a8f2a2348f31e6d
+timeCreated: 1518442506
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_Prefabs/UI_WeaponsStars.prefab
+  uploadId: 229582

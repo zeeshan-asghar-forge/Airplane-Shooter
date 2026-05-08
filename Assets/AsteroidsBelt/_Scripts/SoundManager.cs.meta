@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dd8f182c35dae9e42b7e1d464de071d1
+timeCreated: 1518108089
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_Scripts/SoundManager.cs
+  uploadId: 229582

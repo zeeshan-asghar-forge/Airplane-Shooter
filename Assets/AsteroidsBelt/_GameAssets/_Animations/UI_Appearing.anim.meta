@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52700ef9a8848134eb24bfcdd27712bf
+timeCreated: 1518111743
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_GameAssets/_Animations/UI_Appearing.anim
+  uploadId: 229582

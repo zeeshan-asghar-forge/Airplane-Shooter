@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea05c54c2cb32f54a8f021c527978712
+timeCreated: 1518123572
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_GameAssets/_Models/Materials/transparent.mat
+  uploadId: 229582

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a452fab626e659d4bab61df96908703a
+timeCreated: 1515358684
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_Scripts/_Easy_ObjectsPool_/PoolManager.cs
+  uploadId: 229582

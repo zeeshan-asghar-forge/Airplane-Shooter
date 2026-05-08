@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a8cf5b0d176d3ff40baf295f022a1051
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2062
+  packageName: Asteroid Belt Project
+  packageVersion: 2.5
+  assetPath: Assets/AsteroidsBelt/_Prefabs/Enemy_Asteroid.prefab
+  uploadId: 229582

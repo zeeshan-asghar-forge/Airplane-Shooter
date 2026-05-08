@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba9c7dcda139ee8418558159178fe78d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 100000, guid: 58119f7e9f45c2944a0b18dd33378ffd, type: 3}
+  - chunkPrefab: {fileID: 1373957137749202727, guid: 616fb881ade488f479f9acc90990d2b6, type: 3}
+  - conePrefab: {fileID: 615578473052843786, guid: 4d8d51ea7dccc6643bfc07b82ff1f738, type: 3}
+  - jumpRampPrefab: {fileID: 2141492451725786051, guid: 18fc9fe27e6566447a93bf6f83990e62, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
